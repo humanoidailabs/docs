@@ -17,7 +17,7 @@
   * [🇸🇴 Telegram Bots](genesis-ai-chatbots/telegram-bots.md)
   * [🇸🇴 Customize your Bot](genesis-ai-chatbots/customize-your-bot.md)
 * [🪢 Humanoid AI NFTs](genesis-ai-nfts.md)
-* [🈸 Humanoid AI Metaverse & iNFTs](genesis-ai-metaverse-and-infts.md)
+* [🔮 Humanoid AI Metaverse & iNFTs](genesis-ai-metaverse-and-infts.md)
 * [🈸 Humanoid AI Dapp](genesis-ai-dapp/README.md)
   * [🗳 Staking](genesis-ai-dapp/staking.md)
   * [☘ Yield Farming](genesis-ai-dapp/yield-farming.md)
@@ -27,7 +27,7 @@
 
 ## Token Humanoid AI
 
-* [🟣 Tokenomics](token-genesis-ai/tokenomics.md)
+* [🔓 Tokenomics](token-genesis-ai/tokenomics.md)
 
 ***
 
