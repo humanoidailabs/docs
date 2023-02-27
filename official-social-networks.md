@@ -7,11 +7,11 @@ coverY: 0
 
 
 
-#### TELEGRAM: [https://t.me/GenesisAIAnnoucements](https://t.me/GenesisAIAnnoucements) <mark style="color:blue;"></mark>&#x20;
+#### TELEGRAM: [https://t.me/HumanoidAIannouncement](https://t.me/HumanoidAIannouncement) <mark style="color:blue;"></mark>&#x20;
 
-#### TWITTER: [<mark style="color:blue;">https://twitter.com/genesisbotai</mark>](https://twitter.com/genesisbotai) <mark style="color:blue;"></mark>&#x20;
+#### TWITTER: [https://twitter.com/humanoidailabs](https://twitter.com/humanoidailabs) <mark style="color:blue;"></mark>&#x20;
 
-#### MEDIUM : [https://medium.com/@genesisbotai](https://medium.com/@genesisbotai)
+#### MEDIUM : [https://humanoidailabs.medium.com](https://humanoidailabs.medium.com/)
 
-#### GITHUB: [https://github.com/genesisailabz](https://github.com/genesisailabz)
+#### GITHUB: [https://github.com/humanoidailabs](https://github.com/humanoidailabs)
 

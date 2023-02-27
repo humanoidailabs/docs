@@ -3,7 +3,7 @@ cover: .gitbook/assets/banner-2b.png
 coverY: 0
 ---
 
-# ℹ Humanoid AI | Introduction
+# 🤖 Humanoid AI | Introduction
 
 **ChatGPT**, the state-of-the-art language model developed by **OpenAI**. With the aim of creating a highly intelligent, intuitive and personalized AI assistant, Humanoid AI is poised to change the way we interact with technology and bring the benefits of AI to everyone.&#x20;
 
