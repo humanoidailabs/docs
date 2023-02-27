@@ -1,4 +1,9 @@
-# ✈ Fairlaunch -Pinksale
+---
+cover: .gitbook/assets/banner-2b.png
+coverY: 0
+---
+
+# 🌍 Fairlaunch -Pinksale
 
 <mark style="color:blue;">Why did we choose Pinksale?</mark>
 
