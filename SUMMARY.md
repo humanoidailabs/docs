@@ -1,8 +1,8 @@
 # Table of contents
 
 * [🤖 Humanoid AI | Introduction](README.md)
-* [🇸🇴 Official Social Networks](official-social-networks.md)
-* [🌍 Fairlaunch -Pinksale](fairlaunch-pinksale.md)
+* [🇸🇴 🇸🇴 Official Social Networks](official-social-networks.md)
+* [🌍 Fairlaunch - Pinksale](fairlaunch-pinksale.md)
 
 ## OVERVIEW HUMANOID-AI
 
@@ -12,10 +12,10 @@
 ***
 
 * [☎ Humanoid AI Chatbots](humanoid-ai-chatbots/README.md)
-  * [🇸🇴 Twitter bots](humanoid-ai-chatbots/twitter-bots.md)
-  * [🇸🇴 Discord Bots](humanoid-ai-chatbots/discord-bots.md)
-  * [🇸🇴 Telegram Bots](humanoid-ai-chatbots/telegram-bots.md)
-  * [🇸🇴 Customize your Bot](humanoid-ai-chatbots/customize-your-bot.md)
+  * [🇸🇴 🇸🇴 Twitter bots](humanoid-ai-chatbots/twitter-bots.md)
+  * [🇸🇴 🇸🇴 Discord Bots](humanoid-ai-chatbots/discord-bots.md)
+  * [🇸🇴 🇸🇴 Telegram Bots](humanoid-ai-chatbots/telegram-bots.md)
+  * [🇸🇴 🇸🇴 Customize your Bot](humanoid-ai-chatbots/customize-your-bot.md)
 * [🈸 Humanoid AI Dapp](humanoid-ai-dapp/README.md)
   * [🗳 Staking](humanoid-ai-dapp/staking.md)
   * [☘ Yield Farming](humanoid-ai-dapp/yield-farming.md)
