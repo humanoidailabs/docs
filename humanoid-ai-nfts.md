@@ -1,4 +1,9 @@
-# ⛰ Humanoid AI NFTs
+---
+cover: .gitbook/assets/banner-2b.png
+coverY: 0
+---
+
+# 🪢 Humanoid AI NFTs
 
 Get ready to level up your NFT game with Humanoid AI! 💥 Our marketplace is the go-to spot for trading unique and powerful NFT assets. 💰
 

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/banner-2b.png
+coverY: 0
+---
+
 # 🔮 Origins and Prospects of AI
 
 The origins of AI can be traced back to the 1950s, when computer scientists first started exploring the idea of creating machines that could perform tasks typically requiring human intelligence. Early AI research focused on symbolic reasoning and rule-based systems, but the field saw limited progress until the 1980s and 1990s, when advances in computer hardware and algorithms enabled the development of more sophisticated AI systems.

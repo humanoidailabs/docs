@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/banner-2b.png
+coverY: 0
+---
+
 # ➡ Achievements of AI
 
 
