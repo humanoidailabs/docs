@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/back-2-final-2.png
+cover: ../.gitbook/assets/back-2-final-2 (1).png
 coverY: 0
 ---
 
-# 🇸🇴 Customize your Bot
+# 🇸🇴 🇸🇴 Customize your Bot
 
 "**Step into the future with Genesis AI**"- the ultimate AI-powered custom bot service! Tired of generic AI bots that don't get your brand? Say hello to your very own virtual sidekick, designed just for you! With the power of GPT-3 technology, your custom bot will have a unique personality, style, and intelligence - _**it's like having your own personal AI assistant!**_
 

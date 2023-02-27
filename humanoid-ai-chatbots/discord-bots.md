@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/back-2-final-2.png
+cover: ../.gitbook/assets/back-2-final-2 (1).png
 coverY: 0
 ---
 
-# 🇸🇴 Discord Bots
+# 🇸🇴 🇸🇴 Discord Bots
 
 Get ready to level up your Discord game! We're building a bot that's gonna blow your mind! Our GPT-based chatbot is like your own personal sidekick, with a ton of empathy and just the right amount of sass. Whether you're in the medical field, legal world, or marketing biz, this bot's got you covered with smart answers to your industry-specific questions.
 

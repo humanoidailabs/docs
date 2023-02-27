@@ -8,7 +8,6 @@
 
 * [🔮 Origins and Prospects of AI](overview-humanoid-ai/origins-and-prospects-of-ai/README.md)
   * [🔰 Achievements of AI](overview-humanoid-ai/origins-and-prospects-of-ai/achievements-of-ai.md)
-* [🤖 Jenny - The Humanoid AI Robot Assistant](overview-humanoid-ai/jenny-the-humanoid-ai-robot-assistant.md)
 
 ***
 
@@ -20,6 +19,7 @@
 * [🈸 Humanoid AI Dapp](humanoid-ai-dapp/README.md)
   * [🗳 Staking](humanoid-ai-dapp/staking.md)
   * [☘ Yield Farming](humanoid-ai-dapp/yield-farming.md)
+* [🤖 Jenny - The Humanoid AI Robot Assistant](jenny-the-humanoid-ai-robot-assistant.md)
 * [🪢 Humanoid AI NFTs](humanoid-ai-nfts.md)
 * [🔮 Humanoid AI Metaverse & iNFTs](humanoid-ai-metaverse-and-infts.md)
 * [⭕ Humanoid AI Characters](humanoid-ai-characters.md)
