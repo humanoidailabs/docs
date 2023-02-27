@@ -8,6 +8,7 @@
 
 * [🔮 Origins and Prospects of AI](overview-humanoid-ai/origins-and-prospects-of-ai/README.md)
   * [🔰 Achievements of AI](overview-humanoid-ai/origins-and-prospects-of-ai/achievements-of-ai.md)
+* [🤖 Jenny - The Humanoid AI Robot Assistant](overview-humanoid-ai/jenny-the-humanoid-ai-robot-assistant.md)
 
 ***
 
