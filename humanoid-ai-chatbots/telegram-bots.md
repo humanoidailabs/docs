@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/back-2-final-2 (1).png
+cover: ../.gitbook/assets/back-2-final-2.png
 coverY: 0
 ---
 
-# 🇸🇴 🇸🇴 Telegram Bots
+# 🇸🇴 Telegram Bots
 
 Brace yourselves, Telegram users! A new bot is about to make its debut and it's powered by the almighty GPT-3 AI! 🤖 Get ready for chats like never before, with an overview that will leave you speechless. 💬
 

@@ -7,21 +7,11 @@ coverY: 0
 
 Get ready to blast off with the hottest project of 2023: Humanoid AI! We've got the secret sauce to keep us soaring with sustainable growth and unstoppable success. Hold onto your hats, because this ride is going to be wild!
 
-### **Token** D**etails**:
+Token details:
 
-Name: Humanoid AI&#x20;
+Name: Humanoid AI Symbol: $HUMAI Chain: Binance Smart Chain (BEP-20) Total supply: 100 Million (100,000,000) Total fees: 0% Zero fees, baby!
 
-Symbol: $HUMAI&#x20;
-
-Chain: Binance Smart Chain (BEP-20)&#x20;
-
-Total supply: 100 Million (100,000,000)&#x20;
-
-Total fees: 0% Zero fees, baby!
-
-
-
-### _**Token**  **Distribution**:_
+Token Distribution:
 
 **Public Sale tokens: 30%**
 

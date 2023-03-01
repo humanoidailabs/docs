@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/back-2-final-2.png
+cover: ../.gitbook/assets/back-2-final-2 (1).png
 coverY: 0
 ---
 
-# 🇸🇴 🇸🇴 Twitter bots
+# 🇸🇴 Twitter bots
 
 Hold on to your tweets! We're about to revolutionize the Twitter game with our new bot! 🤖 This bot is loaded with decision-making power and the best part? It won't cost you a dime! 💰 Say goodbye to bland text-based tweets and hello to AI-generated images. 🚀
 

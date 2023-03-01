@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🤖 Humanoid AI | Introduction](README.md)
-* [🇸🇴 🇸🇴 Official Social Networks](official-social-networks.md)
+* [🇸🇴 Official Social Networks](official-social-networks.md)
 * [🌍 Fairlaunch - Pinksale](fairlaunch-pinksale.md)
 
 ## OVERVIEW HUMANOID-AI
