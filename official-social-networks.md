@@ -7,7 +7,7 @@ coverY: 0
 
 
 
-#### TELEGRAM: [https://t.me/HumanoidAIannouncement](https://t.me/HumanoidAIannouncement) <mark style="color:blue;"></mark>&#x20;
+#### TELEGRAM: [https://t.me/humanoidailabs](https://t.me/humanoidailabs)
 
 #### TWITTER: [https://twitter.com/humanoidailabs](https://twitter.com/humanoidailabs) <mark style="color:blue;"></mark>&#x20;
 
