@@ -13,4 +13,4 @@ Think of it as a **digital piggy bank** 🏦 that pays you interest just for lea
 
 **And the best part? No "miners" required** 💪. Instead, LPs provide the liquidity to the pool and earn rewards for their contribution. And we'll make it easy for you to understand how the returns are calculated with our use of **Annual Percentage Rate (APR)**.
 
-So what are you waiting for? Get ready to join the yield farming revolution and start earning big bucks with Genesis-AI !💰💰
+So what are you waiting for? Get ready to join the yield farming revolution and start earning big bucks with Humanoid-AI !💰💰
